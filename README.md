@@ -3,14 +3,14 @@
 
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rog%C3%A9rio-d-661694131/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rogério-d-661694131)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=%2B5584996365209&text&type=phone_number&app_absent=0)
 
 
 
 
 
-![RogérioL1m4 GitHub stats](https://github-readme-stats.vercel.app/api?username=RogérioL1m4&show_icons=true&theme=radical)
+![RogérioL1m4 GitHub stats](https://github-readme-stats.vercel.app/api?username=RogerioL1m4&show_icons=true&theme=radical)
 
 
 ### 🚀 Habilidades
@@ -35,19 +35,3 @@
 [![Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)]()
 [![VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)]()
 
-
-
-<!--
-**RogerioL1m4/RogerioL1m4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
